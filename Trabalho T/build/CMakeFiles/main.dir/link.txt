@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/fs.cpp.o CMakeFiles/main.dir/sha256.cpp.o -o ../main   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lgtest -lcrypto -lpthread 

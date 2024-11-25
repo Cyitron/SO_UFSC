@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/c/Users/Wodan/Desktop/Faculdade/UFSC/SO/Trabalho T/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/main.cpp.o -c \"/mnt/c/Users/Wodan/Desktop/Faculdade/UFSC/SO/Trabalho T/main.cpp\"",
+  "file": "/mnt/c/Users/Wodan/Desktop/Faculdade/UFSC/SO/Trabalho T/main.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Wodan/Desktop/Faculdade/UFSC/SO/Trabalho T/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/fs.cpp.o -c \"/mnt/c/Users/Wodan/Desktop/Faculdade/UFSC/SO/Trabalho T/fs.cpp\"",
+  "file": "/mnt/c/Users/Wodan/Desktop/Faculdade/UFSC/SO/Trabalho T/fs.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Wodan/Desktop/Faculdade/UFSC/SO/Trabalho T/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/sha256.cpp.o -c \"/mnt/c/Users/Wodan/Desktop/Faculdade/UFSC/SO/Trabalho T/sha256.cpp\"",
+  "file": "/mnt/c/Users/Wodan/Desktop/Faculdade/UFSC/SO/Trabalho T/sha256.cpp"
+}
+]
